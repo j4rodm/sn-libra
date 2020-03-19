@@ -1,4 +1,5 @@
 # Libra Toolkit for ServiceNow
+![Alt](docs/img/icons8-libra-64.png "Libra Logo")
 
 ## Summary
 
@@ -6,8 +7,9 @@
 
 * Prerequsites: _none_
 
-1. Download and install update set from [ServiceNow Share](https://developer.servicenow.com/app.do#!/share/contents/1627055_email_filter_for_sub_production_instances)
-2. Sets
+1. Download and install update set from [ServiceNow Share](https://developer.servicenow.com/connect.do#!/share/contents/1627055_libra_toolkit)
+2. Explore features
+3. Please return to the Share page and review 
 
 
 ### Left-bar minimize
@@ -27,14 +29,6 @@
 4. Review each category for items present in your instance
 5. Can right click and `Ignore Item` or `Ignore all of this type` to remove from list
 6. To export: Right-click on column header row and Export as Excel, CSV, etc...
-
-
-## Administration
-Recommneded security review
-
-Recommended post-install instructions
-
-Recommended routine admin tasks
 
 
 ## Contribute
