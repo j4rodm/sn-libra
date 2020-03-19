@@ -2,6 +2,10 @@
 ![Alt](docs/img/icons8-libra-64.png "Libra Logo")
 
 ## Summary
+Libra Toolkit is a collection of utilities that have been used in my development instances for a while. It is now time to consolidate them to a single scoped app and open source them.
+
+There are additional private scripts and utilties that will be added to this kit in the future. Subscribe to the Share item or the GitHub repo for future news.
+
 
 ## Quick Start
 
@@ -15,12 +19,9 @@
 
 ### Left-bar minimize
 
-1. Browse to a sys_user record
-2. Add related list `Minimize App Menus` to your desired view
-3. Browse to your user record
-4. Use the related list`s Edit button to select applications you wish to see when in minimize mode
-5. To enable: use `Enable minimization` module
-6. To disable: use `Disable minimization` module
+1. Browse to module: `Configure my minimize setting`
+2. Move left-bar applications that you'd like to hide to the right column. Save.
+3. To enable or disable: use `Toggle my minimize setting` module
 
 ### Instance Customizations
 
