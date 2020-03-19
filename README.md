@@ -11,6 +11,7 @@
 2. Explore features
 3. Please return to the Share page and review 
 
+![Alt](docs/img/left-bar-application.png "Libra Left Bar")
 
 ### Left-bar minimize
 
