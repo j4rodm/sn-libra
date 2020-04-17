@@ -2,6 +2,10 @@
 ![Alt](docs/img/icons8-libra-64.png "Libra Logo")
 
 ## Summary
+Libra Toolkit is a collection of utilities that have been used in my development instances for a while. It is now time to consolidate them to a single scoped app and open source them.
+
+There are additional private scripts and utilties that will be added to this kit in the future. Subscribe to the Share item or the GitHub repo for future news.
+
 
 ## Quick Start
 
@@ -14,15 +18,14 @@
 ![Alt](docs/img/left-bar-application.png "Libra Left Bar")
 
 ### Left-bar minimize
+Remove unwanted left-bar applications from your view, without impacting other users on the instance, and without modifying any records.
 
-1. Browse to a sys_user record
-2. Add related list `Minimize App Menus` to your desired view
-3. Browse to your user record
-4. Use the related list`s Edit button to select applications you wish to see when in minimize mode
-5. To enable: use `Enable minimization` module
-6. To disable: use `Disable minimization` module
+1. Browse to module: `Configure my minimize setting`
+2. Move left-bar applications that you'd like to hide to the right column. Save.
+3. To enable or disable: use `Toggle my minimize setting` module
 
 ### Instance Customizations
+Before you zBoot your PDI, review the update sets, plugins, store apps, users, and more. Make a list of the things you need to export so it won't get lost forever.
 
 1. Browse to module: Instance Report
 2. Click `Generate Report`
@@ -37,3 +40,8 @@ Submit enhancements/defects via this repo's [Issues](../../issues)
 
 ## Credit
 [Jarod Mundt](https://github.com/j4rodm)
+
+## Screenshots
+![Configure and remove unwanted left-bar apps](docs/img/left-bar-minimize.png "Libra Minimize Config")
+
+![List changes to your instance so nothing gets left behind](docs/img/instance-customization.png "Libra Customization Report")
